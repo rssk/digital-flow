@@ -1,0 +1,23 @@
+{
+  "name": "digital-flow",
+  "version": "1.0.0",
+  "description": "A real world data visualizer",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rssk/digital-flow.git"
+  },
+  "author": "Ross Kelly",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/rssk/digital-flow/issues"
+  },
+  "homepage": "https://github.com/rssk/digital-flow#readme",
+  "dependencies": {
+    "semistandard": "^14.2.0",
+    "ws": "^7.1.2"
+  }
+}
