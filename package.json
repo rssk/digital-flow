@@ -19,5 +19,8 @@
   "dependencies": {
     "semistandard": "^14.2.0",
     "ws": "^7.1.2"
+  },
+    "devDependencies": {
+    "semistandard": "^14.2.0"
   }
 }
